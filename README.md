@@ -14,9 +14,9 @@
 ## 📝 Nota:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
-:rocket:**Rocketseat** - [Bootcamp LaunchBase](https://rocketseat.com.br/) : 
+:rocket: **Rocketseat** - [Bootcamp LaunchBase](https://rocketseat.com.br/) : 
 
-**Autor: Jorge Sérgio Teixeira** - [Linkedin](https://www.linkedin.com/in/jorgestjr/): 
+:black_nib: **Autor: Jorge Sérgio Teixeira** - [Linkedin](https://www.linkedin.com/in/jorgestjr/): 
 
 ## :floppy_disk: Tecnologias: 
 [//]: # (Add the features of your project here:) 
