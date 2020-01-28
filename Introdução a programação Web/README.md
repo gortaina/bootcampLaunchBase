@@ -257,3 +257,33 @@ Exemplos:
  > Resultado: 0
  
 
+# Objetos
+
+ Objeto na programação é a junção de algumas propriedades de um determinado objeto. Ficou confuso? Calma, vamos trazer isso para a realidade. Pense em seu celular, ele não é um objeto? Então, ele possui cor, peso, especificações e por ai vai. Na programação é a mesma coisa.
+
+ Vamos aos códigos?
+
+ - Ex:
+> const aluno01 = {
+  nome: 'Jorge',
+  nota: 9.8
+}
+
+const aluno02 = {
+  nome: 'Laryssa',
+  nota: 10
+
+}
+const aluno03 = {
+  nome: 'Lauana',
+  nota: 2
+} 
+
+
+ Perceba que declaramos uma varíavel normalmente, como já visto, e após isso colocamos as propriedades dentro de chaves como os exemplos acima.
+
+ Para acessarmos esse objeto, podemos fazer da seguinte forma:
+
+ - const media = (aluno01.nota + aluno02.nota + aluno03.nota) / 3
+
+ > aluno01.(nota, nome), podemos utilizar as propriedades do objeto.
