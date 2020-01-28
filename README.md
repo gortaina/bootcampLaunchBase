@@ -18,6 +18,14 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 
 - [Linkedin](https://www.linkedin.com/in/jorgestjr/): **Autor: Jorge Sérgio Teixeira**
 
+## :floppy_disk: Tecnologias: 
+[//]: # (Add the features of your project here:) 
+As mais recentes ferramentas utilizadas no LaunchBase 
+
+- :u6708: **Javascript**
+- :u7533: **HTML5**
+- :u6709: **CSS**
+
 ## Módulo 1:
 - Introdução a programação WEB
 - Iniciando no Front-end
