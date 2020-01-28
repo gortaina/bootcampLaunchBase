@@ -111,7 +111,7 @@ return 'Fala ${nome}, você está novo para programar.'
 <p align=justify> Desta forma teremos declarado dois tipo de numbers, tanto inteiro (10), quanto float (9.8)
 
 
-<p align=justify> Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:
+ Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:
 
  - console.log(typeof notaAluno1)
  > Resultado: number
