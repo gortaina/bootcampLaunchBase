@@ -263,18 +263,18 @@ Exemplos:
 
  Vamos aos códigos?
 
- - Ex:
+ - Exemplos:
 > const aluno01 = {
   nome: 'Jorge',
   nota: 9.8
 }
 
-const aluno02 = {
+> const aluno02 = {
   nome: 'Laryssa',
   nota: 10
-
 }
-const aluno03 = {
+
+> const aluno03 = {
   nome: 'Lauana',
   nota: 2
 } 
