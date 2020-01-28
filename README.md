@@ -5,6 +5,13 @@
 
 <p align="center">Este repositório tem por objetivo armazenar as informações dos módulos para facilitar o processo de aprendizagem.</p> 
 
+<p align="center"> 
+  <a href="https://opensource.org/licenses/MIT"> 
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
+  </a> 
+</p>  
+
+## 📝 Nota:
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
 - [Bootcamp LaunchBase](https://rocketseat.com.br/) : **Rocketseat**
