@@ -26,7 +26,7 @@ As mais recentes ferramentas utilizadas no LaunchBase
 - :u7533: **HTML5** - 
 - :u6709: **CSS** - 
 
-## Módulo 1:
+## :open_file_folder: Módulo 1:
 - Introdução a programação WEB
 - Iniciando no Front-end
 - Construindo o Foodfy
