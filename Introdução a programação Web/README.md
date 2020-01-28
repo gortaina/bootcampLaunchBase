@@ -4,7 +4,7 @@
 
 <p align=justify>Olá! Aqui serão inseridas as informações referentes aos conteúdos abordados no Bootcamp LaunchBase, tentarei ser o mais analítico possível para facilitar o entendimento dos demais. </p>
 
-# O que é programação?
+<h1 align=center> O que é programação?
 
  Ensinar o computador a trabalhar, passar através de algoritimos(códigos) o que ele deve fazer. Fazemos isso através das linguagens de programação, são elas:
  - Python
@@ -13,23 +13,23 @@
  - JavaScript
  - Entre outras
 
-# Por que JavaScript?
+<h1 align=center> Por que JavaScript?
 
  Uma linguagem que está no topo das paradas, super moderna, fácil de se inscrever e possui uma curva de aprendizado bem interessante.
 
-## Principais pontos:
+<h1 align=center><h1 align=center> Principais pontos:
  - Linguagem moderna
  - Comunidade ativa e muito forte, grandes empresas utilizam a linguagem (Youtube, Facebook, Airbnb, entre outros)
 
  
-# Como programar?
+<h1 align=center> Como programar?
 
  - Aprender a linguagem
  - Ter um ambiente de desenvolvimento (VS Code, Chrome, NodeJs, entre outros aplicativos)
  - Codar! (Meter a mão na massa, rsrs)
 
 
-# EXEMPLO DE CÓDIGO EM JS
+<h1 align=center> EXEMPLO DE CÓDIGO EM JS
 
  const nome = 'Jorge'
  const idade = '25'
@@ -43,7 +43,7 @@ return 'Fala ${nome}, você está novo para programar.'
 
 
 
-# INICIANDO NO JAVASCRIPT
+<h1 align=center> INICIANDO NO JAVASCRIPT
 
 Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fica por sua conta, pode escolher. Uma vez criada, devemos fazer os seguintes passos:
 - No VS Code -> File -> Open Folder, iremos então selecionar a pasta criada.
@@ -68,7 +68,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  
 <h1 align=center>Comentários, Strings e Numbers </h1>
 
-## Comentários
+<h1 align=center><h1 align=center> Comentários
 
  <p align=justify>Os comentários no JS ou em qualquer linguagem, serve para que possamos escrever lembretes e comentar linhas de código sem que elas apareçam na tela. (para quem está começando essa é uma boa prática, comentar cada linha para se localizar depois revendo seu código.)
 
@@ -78,7 +78,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  > Utilizando essas **//**, tudo que vier após entrará como comentário, e como dito, não aparecerá na tela ou no console.
 
 
-## String
+<h1 align=center><h1 align=center> String
 
  String é um tipo de varíavel, ela recebe qualquer tipo de valor, texto, numero, etc. Veja exemplos de strings:
 
@@ -101,7 +101,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  > Resultado: Jorge e &{aluno2}
 
 
-## Number
+<h1 align=center><h1 align=center> Number
 
  Number também é um tipo de varíavel, porém ela recebe apenas valores numéricos, sejam eles *Inteiros (Int), ou Decimais(Float). Para declará-los, é bem simples, devemos fazer o seguinte:
 
@@ -188,7 +188,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
   console.log('Deixar entrar')
 }
 
- ## Operadores de comparação:
+ <h1 align=center><h1 align=center> Operadores de comparação:
 
  - (>) Maior
  - (<) Menor
@@ -202,7 +202,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
 
 <h1 align=center> Operadores lógicos e aritméticos
 
-## Operadores lógicos
+<h1 align=center><h1 align=center> Operadores lógicos
 
  Os operadores lógicos servem para nos dar um resultado lógico (como o próprio nome diz, dur) em uma determinada situação, vamos aos exemplos:
 
@@ -230,7 +230,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  
 
 
-## Operadores aritméticos
+<h1 align=center><h1 align=center> Operadores aritméticos
 
  O operadores aritméticos são os mesmos utilizados normalmente, não há alteração, são eles:
 
