@@ -1,7 +1,8 @@
 
-# BOOTCAMP LAUNCHBASE!
 
-Olá! Aqui serão inseridas as informações referentes aos conteúdos abordados no Bootcamp LaunchBase, tentarei ser o mais analítico possível para facilitar o entendimento dos demais.
+<h1 align=center> BOOTCAMP LAUNCHBASE! </h1>
+
+<p align=justify>Olá! Aqui serão inseridas as informações referentes aos conteúdos abordados no Bootcamp LaunchBase, tentarei ser o mais analítico possível para facilitar o entendimento dos demais. </p>
 
 # O que é programação?
 
@@ -65,11 +66,11 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  Com isso já temos nossa primeira linha de código criada, já podemos afirmar que estamos **codando em JS!** (Uhuuuuu \o/)
  
  
-# Comentários, Strings e Numbers
+<h1 align=center>Comentários, Strings e Numbers </h1>
 
 ## Comentários
 
- Os comentários no JS ou em qualquer linguagem, serve para que possamos escrever lembretes e comentar linhas de código sem que elas apareçam na tela. (para quem está começando essa é uma boa prática, comentar cada linha para se localizar depois revendo seu código.)
+ <p align=justify>Os comentários no JS ou em qualquer linguagem, serve para que possamos escrever lembretes e comentar linhas de código sem que elas apareçam na tela. (para quem está começando essa é uma boa prática, comentar cada linha para se localizar depois revendo seu código.)
 
  Para criarmos comentários no JS devemos fazer da seguinte forma:
 
@@ -119,9 +120,9 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  > Resultado: string
 
 
-# Fazendo cálculos com JavaScript
+<h1 align=center> Fazendo cálculos com JavaScript
 
- Para realizarmos cálculos no JS é bem simples, devemos seguir a lógica matemática, pura e simples, sem mistério. Como podemos fazer isso? Da seguinte forma:
+ <p align=justify>Para realizarmos cálculos no JS é bem simples, devemos seguir a lógica matemática, pura e simples, sem mistério. Como podemos fazer isso? Da seguinte forma:
 
  - const media = (notaAluno1 + notaAluno2 + notaAluno3) / 3
  - console.log(media)
@@ -130,7 +131,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  Então, realizamos primeiro a soma (na1 + na2 + na3) e após dividimos pelo numero de alunos (/3), com isso conseguimos obter a média.
 
 
-# Condicionais
+<h1 align=center> Condicionais
 
  Estruturas condicionais servem para podermos tomar decisões dentro do código, isso mesmo, elas vão nos dar condições. Vamos trazer isso para a prática. 
 
@@ -162,9 +163,9 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  Também podemos acrescentar mais **ifs** dentro da estrutura, mas deixemos isso para um outro momento.
 
 
-# Operadores relacionais e comparativos
+<h1 align=center>Operadores relacionais e comparativos
 
- Os operadores relacionais e comparativos nos permitem fazer algumas apurações como o nome já indica, podemos relacionar um valor ao outro, comparar um ao outro ou até mesmo os dois. Certo, vamos para a sintaxe para melhor compreensão:
+ <p align=justify>Os operadores relacionais e comparativos nos permitem fazer algumas apurações como o nome já indica, podemos relacionar um valor ao outro, comparar um ao outro ou até mesmo os dois. Certo, vamos para a sintaxe para melhor compreensão:
 
  - const idade = 16
 
@@ -199,7 +200,7 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
  - (!==) Diferente, inclusive do tipo
 
 
-# Operadores lógicos e aritméticos
+<h1 align=center> Operadores lógicos e aritméticos
 
 ## Operadores lógicos
 
@@ -257,9 +258,9 @@ Exemplos:
  > Resultado: 0
  
 
-# Objetos
+<h1 align=center> Objetos
 
- Objeto na programação é a junção de algumas propriedades de um determinado objeto. Ficou confuso? Calma, vamos trazer isso para a realidade. Pense em seu celular, ele não é um objeto? Então, ele possui cor, peso, especificações e por ai vai. Na programação é a mesma coisa.
+ <p align=justify>Objeto na programação é a junção de algumas propriedades de um determinado objeto. Ficou confuso? Calma, vamos trazer isso para a realidade. Pense em seu celular, ele não é um objeto? Então, ele possui cor, peso, especificações e por ai vai. Na programação é a mesma coisa.
 
  Vamos aos códigos?
 
@@ -289,7 +290,7 @@ Exemplos:
  > aluno01.(nota, nome), podemos utilizar as propriedades do objeto.
 
 
-# Vetores (Array)
+<h1 align=center> Vetores (Array)
 
  Podemos dizer que Vetores (Array) é uma varíavel com a junção de vários objetos. Isso mesmo, podemos em uma unica varíavel juntar diversos objetos e escolhermos qual iremos chamar em determinado momento. Ainda não entendeu? Vamos para o código:
 
