@@ -3,7 +3,8 @@
 <h1 align=center> BOOTCAMP LAUNCHBASE! </h1>
 
 <p align=justify>Olá! Aqui serão inseridas as informações referentes aos conteúdos abordados no Bootcamp LaunchBase, tentarei ser o mais analítico possível para facilitar o entendimento dos demais. </p>
-
+<br>
+<br>
 <h1 align=center> O que é programação?</h1>
 
  Ensinar o computador a trabalhar, passar através de algoritimos(códigos) o que ele deve fazer. Fazemos isso através das linguagens de programação, são elas:
@@ -12,6 +13,8 @@
  - PHP
  - JavaScript
  - Entre outras
+<br>
+<br>
 
 <h1 align=center> Por que JavaScript?</h1>
 
@@ -20,14 +23,16 @@
 ## Principais pontos:
  - Linguagem moderna
  - Comunidade ativa e muito forte, grandes empresas utilizam a linguagem (Youtube, Facebook, Airbnb, entre outros)
-
+<br>
+<br>
  
 <h1 align=center> Como programar?</h1>
 
  - Aprender a linguagem
  - Ter um ambiente de desenvolvimento (VS Code, Chrome, NodeJs, entre outros aplicativos)
  - Codar! (Meter a mão na massa, rsrs)
-
+<br>
+<br>
 
 <h1 align=center> Exemplo de código em JavaScript</h1>
 
@@ -39,7 +44,8 @@ return 'Fala ${nome}, você está novo para programar.'
 }
 
 // Fala Jorge, você está novo para programa
-
+<br>
+<br>
 
 
 
@@ -64,10 +70,11 @@ return 'Fala ${nome}, você está novo para programar.'
  Dentro do terminal, devemos chamar da seguinte forma: **node index.js**. Com este comando, será apresentado em tela o conteúdo da varíavel.
 
  Com isso já temos nossa primeira linha de código criada, já podemos afirmar que estamos **codando em JS!** (Uhuuuuu \o/)
- 
+ <br>
+<br>
  
 <h1 align=center>Comentários, Strings e Numbers </h1>
-
+<br>
 ## Comentários
 
  <p align=justify>Os comentários no JS ou em qualquer linguagem, serve para que possamos escrever lembretes e comentar linhas de código sem que elas apareçam na tela. (para quem está começando essa é uma boa prática, comentar cada linha para se localizar depois revendo seu código.)
@@ -76,7 +83,7 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - // Comentando o código JS
  > Utilizando essas **//**, tudo que vier após entrará como comentário, e como dito, não aparecerá na tela ou no console.
-
+<br>
 
 ## String
 
@@ -99,7 +106,8 @@ return 'Fala ${nome}, você está novo para programar.'
  - const aluno1 = 'Jorge e ${aluno2}'
  > console.log (aluno1)
  > Resultado: Jorge e &{aluno2}
-
+<br>
+<br>
 
 ## Number
 
@@ -118,7 +126,8 @@ return 'Fala ${nome}, você está novo para programar.'
 
  - console.log(typeof aluno1)
  > Resultado: string
-
+<br>
+<br>
 
 <h1 align=center> Fazendo cálculos com JavaScript</h1>
 
@@ -130,7 +139,8 @@ return 'Fala ${nome}, você está novo para programar.'
 
  Então, realizamos primeiro a soma (na1 + na2 + na3) e após dividimos pelo numero de alunos (/3), com isso conseguimos obter a média.
 
-
+<br>
+<br>
 <h1 align=center> Condicionais</h1>
 
  Estruturas condicionais servem para podermos tomar decisões dentro do código, isso mesmo, elas vão nos dar condições. Vamos trazer isso para a prática. 
@@ -161,7 +171,8 @@ return 'Fala ${nome}, você está novo para programar.'
  Agora ficou mais fácil né?
 
  Também podemos acrescentar mais **ifs** dentro da estrutura, mas deixemos isso para um outro momento.
-
+<br>
+<br>
 
 <h1 align=center>Operadores relacionais e comparativos</h1>
 
@@ -186,7 +197,8 @@ return 'Fala ${nome}, você está novo para programar.'
   console.log('Voltar quando fizer 18 anos')
 } else {
   console.log('Deixar entrar')
-}
+}<br>
+<br>
 
  ## Operadores de comparação:
 
@@ -199,7 +211,8 @@ return 'Fala ${nome}, você está novo para programar.'
  - (!=) Diferente de
  - (!==) Diferente, inclusive do tipo
 
-
+<br>
+<br>
 <h1 align=center> Operadores lógicos e aritméticos</h1>
 
 ## Operadores lógicos
@@ -226,7 +239,8 @@ return 'Fala ${nome}, você está novo para programar.'
 
  > console.log (!(5 > 6))
  > Resultado: True
-
+<br>
+<br>
  
 
 
@@ -256,7 +270,8 @@ Exemplos:
 
  - console.log(2 - 2)
  > Resultado: 0
- 
+ <br>
+<br>
 
 <h1 align=center> Objetos</h1>
 
@@ -288,7 +303,8 @@ Exemplos:
  - const media = (aluno01.nota + aluno02.nota + aluno03.nota) / 3
 
  > aluno01.(nota, nome), podemos utilizar as propriedades do objeto.
-
+<br>
+<br>
 
 <h1 align=center> Vetores (Array)</h1>
 
