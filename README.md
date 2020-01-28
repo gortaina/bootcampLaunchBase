@@ -3,9 +3,7 @@
   </p>
 <br> 
 
-
-
-## Este repositório tem por objetivo armazenar as informações dos módulos para facilitar o processo de aprendizagem. 
+<p align="center">Este repositório tem por objetivo armazenar as informações dos módulos para facilitar o processo de aprendizagem.</p> 
 
 No término de cada módulo irei adicionar dentro de suas respectivas pastas todo conteúdo abordado nas aulas, passo a passo, exemplos de códigos e todo conteúdo que for possível ser adicionado.
 
