@@ -4,7 +4,7 @@
 
 <p align=justify>Olá! Aqui serão inseridas as informações referentes aos conteúdos abordados no Bootcamp LaunchBase, tentarei ser o mais analítico possível para facilitar o entendimento dos demais. </p>
 
-# O que é programação?
+<h1 align=center> O que é programação?
 
  Ensinar o computador a trabalhar, passar através de algoritimos(códigos) o que ele deve fazer. Fazemos isso através das linguagens de programação, são elas:
  - Python
@@ -13,7 +13,7 @@
  - JavaScript
  - Entre outras
 
-# Por que JavaScript?
+<h1 align=center> Por que JavaScript?
 
  Uma linguagem que está no topo das paradas, super moderna, fácil de se inscrever e possui uma curva de aprendizado bem interessante.
 
@@ -22,14 +22,14 @@
  - Comunidade ativa e muito forte, grandes empresas utilizam a linguagem (Youtube, Facebook, Airbnb, entre outros)
 
  
-# Como programar?
+<h1 align=center> Como programar?
 
  - Aprender a linguagem
  - Ter um ambiente de desenvolvimento (VS Code, Chrome, NodeJs, entre outros aplicativos)
  - Codar! (Meter a mão na massa, rsrs)
 
 
-# EXEMPLO DE CÓDIGO EM JS
+<h1 align=center> Exemplo de código em JavaScript
 
  const nome = 'Jorge'
  const idade = '25'
@@ -43,13 +43,13 @@ return 'Fala ${nome}, você está novo para programar.'
 
 
 
-# INICIANDO NO JAVASCRIPT
+<h1 align=center> Iniciando com JavaScript
 
-Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fica por sua conta, pode escolher. Uma vez criada, devemos fazer os seguintes passos:
+<p align=justify>Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fica por sua conta, pode escolher. Uma vez criada, devemos fazer os seguintes passos:
 - No VS Code -> File -> Open Folder, iremos então selecionar a pasta criada.
 - Devemos criar um novo arquivo e colocar o nome de index.js (a extensão **.js** é de extrema importância para que o programa reconheça que é um arquivo JavaScript.)
 
- Dentro deste arquivo, devemos nos atentar a sintaxe, a sintaxe é a forma de escrita do código, ela deve ser feita de forma correta para que o navegador possa ler essas informações e responder conforme solicitado. Então, segue exemplo de sintaxe:
+ <p align=justify>Dentro deste arquivo, devemos nos atentar a sintaxe, a sintaxe é a forma de escrita do código, ela deve ser feita de forma correta para que o navegador possa ler essas informações e responder conforme solicitado. Então, segue exemplo de sintaxe:
 
  - const nome = 'Jorge'
  > const = constante, é a declaração de uma varíavel, esse valor será levado por todo o sistema, até que seja alterado manualmente.
@@ -103,15 +103,15 @@ Para iniciarmos, devemos criar uma pasta em nosso HD, o local e nomenclatura fic
 
 ## Number
 
- Number também é um tipo de varíavel, porém ela recebe apenas valores numéricos, sejam eles *Inteiros (Int), ou Decimais(Float). Para declará-los, é bem simples, devemos fazer o seguinte:
+<p align=justify> Number também é um tipo de varíavel, porém ela recebe apenas valores numéricos, sejam eles *Inteiros (Int), ou Decimais(Float). Para declará-los, é bem simples, devemos fazer o seguinte:
 
  - const notaAluno1 = 9.8
  - const notaAluno2 = 10
 
- Desta forma teremos declarado dois tipo de numbers, tanto inteiro (10), quanto float (9.8)
+<p align=justify> Desta forma teremos declarado dois tipo de numbers, tanto inteiro (10), quanto float (9.8)
 
 
- Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:
+<p align=justify> Para podermos saber que tipo de varíavel estamos utilizando, podemos utilizar o *typeof*, ele nos dirá qual tipo de varíavel está sendo chamada, como por exemplo:
 
  - console.log(typeof notaAluno1)
  > Resultado: number
