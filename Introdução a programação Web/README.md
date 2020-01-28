@@ -120,7 +120,7 @@ return 'Fala ${nome}, você está novo para programar.'
  > Resultado: string
 
 
-<h1 align=center> Fazendo cálculos com JavaScript
+<h1 align=center> Fazendo cálculos com JavaScript</h1>
 
  <p align=justify>Para realizarmos cálculos no JS é bem simples, devemos seguir a lógica matemática, pura e simples, sem mistério. Como podemos fazer isso? Da seguinte forma:
 
@@ -131,7 +131,7 @@ return 'Fala ${nome}, você está novo para programar.'
  Então, realizamos primeiro a soma (na1 + na2 + na3) e após dividimos pelo numero de alunos (/3), com isso conseguimos obter a média.
 
 
-<h1 align=center> Condicionais
+<h1 align=center> Condicionais</h1>
 
  Estruturas condicionais servem para podermos tomar decisões dentro do código, isso mesmo, elas vão nos dar condições. Vamos trazer isso para a prática. 
 
@@ -163,7 +163,7 @@ return 'Fala ${nome}, você está novo para programar.'
  Também podemos acrescentar mais **ifs** dentro da estrutura, mas deixemos isso para um outro momento.
 
 
-<h1 align=center>Operadores relacionais e comparativos
+<h1 align=center>Operadores relacionais e comparativos</h1>
 
  <p align=justify>Os operadores relacionais e comparativos nos permitem fazer algumas apurações como o nome já indica, podemos relacionar um valor ao outro, comparar um ao outro ou até mesmo os dois. Certo, vamos para a sintaxe para melhor compreensão:
 
@@ -200,7 +200,7 @@ return 'Fala ${nome}, você está novo para programar.'
  - (!==) Diferente, inclusive do tipo
 
 
-<h1 align=center> Operadores lógicos e aritméticos
+<h1 align=center> Operadores lógicos e aritméticos</h1>
 
 ## Operadores lógicos
 
@@ -258,7 +258,7 @@ Exemplos:
  > Resultado: 0
  
 
-<h1 align=center> Objetos
+<h1 align=center> Objetos</h1>
 
  <p align=justify>Objeto na programação é a junção de algumas propriedades de um determinado objeto. Ficou confuso? Calma, vamos trazer isso para a realidade. Pense em seu celular, ele não é um objeto? Então, ele possui cor, peso, especificações e por ai vai. Na programação é a mesma coisa.
 
@@ -290,7 +290,7 @@ Exemplos:
  > aluno01.(nota, nome), podemos utilizar as propriedades do objeto.
 
 
-<h1 align=center> Vetores (Array)
+<h1 align=center> Vetores (Array)</h1>
 
  Podemos dizer que Vetores (Array) é uma varíavel com a junção de vários objetos. Isso mesmo, podemos em uma unica varíavel juntar diversos objetos e escolhermos qual iremos chamar em determinado momento. Ainda não entendeu? Vamos para o código:
 
