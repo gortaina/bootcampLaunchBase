@@ -22,9 +22,9 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 [//]: # (Add the features of your project here:) 
 As mais recentes ferramentas utilizadas no LaunchBase 
 
-- :u6708: **Javascript**
-- :u7533: **HTML5**
-- :u6709: **CSS**
+- :u6708: **Javascript** - 
+- :u7533: **HTML5** - 
+- :u6709: **CSS** - 
 
 ## Módulo 1:
 - Introdução a programação WEB
