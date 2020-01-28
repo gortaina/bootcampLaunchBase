@@ -8,7 +8,7 @@ No término de cada módulo irei adicionar dentro de suas respectivas pastas tod
 
 - [Bootcamp LaunchBase](https://rocketseat.com.br/) : **Rocketseat**
 
-- [Linkedin](https://www.linkedin.com/in/jorgestjr/): **Jorge Sérgio Teixeira**
+- [Linkedin](https://www.linkedin.com/in/jorgestjr/): **Autor: Jorge Sérgio Teixeira**
 
 ## Módulo 1:
 - Introdução a programação WEB
