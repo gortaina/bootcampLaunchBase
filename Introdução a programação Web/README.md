@@ -287,3 +287,39 @@ Exemplos:
  - const media = (aluno01.nota + aluno02.nota + aluno03.nota) / 3
 
  > aluno01.(nota, nome), podemos utilizar as propriedades do objeto.
+
+
+# Vetores (Array)
+
+ Podemos dizer que Vetores (Array) é uma varíavel com a junção de vários objetos. Isso mesmo, podemos em uma unica varíavel juntar diversos objetos e escolhermos qual iremos chamar em determinado momento. Ainda não entendeu? Vamos para o código:
+
+ - Exemplo:
+
+ > const alunos = [{
+    nome: 'Jorge',
+    nota: 9.8
+ > },
+ > {
+    nome: 'Laryssa',
+    nota: 10
+ > },
+ > {
+    nome: 'Luana',
+    nota: 2
+ > }
+> ]
+
+ Veja que interessante, neste exemplo, podemos afirmar que dentro da varíavel *alunos* há 03 objetivos, nome e nota em cada um deles. Legal né?
+
+ Como ficaria então para podermos achar a média dos alunos utilizando arrays? Vamos verificar:
+
+ > const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota) / 3
+
+ Veja, declaramos a varíavel **alunos** e então com os [] chamamos o objeto que queremos, mas perceba que, a contagem se inicia do 0 e não do 1, ok? Então no caso de 03 objetos, a contagem será assim: 0, 1 e 2.
+
+ Vejamos outro exemplo de array:
+
+ > const nomesDeAlunos = ['Jorge', 'Laryssa', 'Luana']
+
+ Desta forma, temos 03 propriedades dentro de uma unica varíavel.
+
