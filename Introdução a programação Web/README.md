@@ -344,7 +344,7 @@ Exemplos:
 
 <h1 align=center> Funções e métodos</h1>
 
-<p align=center>Podemos dizer que a função serve para agrupar um bloco de códigos, afim de que eles tenham ação já definida. É, criamos uma função para reaproveitar determinado código, sem que tenhamos que ficar digitando ele o tempo todo. Vamos codar?
+<p align=justify>Podemos dizer que a função serve para agrupar um bloco de códigos, afim de que eles tenham ação já definida. É, criamos uma função para reaproveitar determinado código, sem que tenhamos que ficar digitando ele o tempo todo. Vamos codar?
 
  - Exemplo:
 > function calculaMedia(alunos) {
@@ -366,7 +366,7 @@ Exemplos:
 
 <h1 align=center> Estrutura de repetição</h1>
 
-<p align=center> Nessa parte iremos aprender como repetir uma estrutura de dados que já temos. Como assim? Isso mesmo, iremos repetir informações de um bloco de código até determinado momento, simples assim. (brincadeira, não é simples, por isso vamos aos códigos, :D)
+<p align=justify> Nessa parte iremos aprender como repetir uma estrutura de dados que já temos. Como assim? Isso mesmo, iremos repetir informações de um bloco de código até determinado momento, simples assim. (brincadeira, não é simples, por isso vamos aos códigos, :D)
 
  - Exemplo de código:
 > function calculaMedia(alunos) {
@@ -375,10 +375,10 @@ Exemplos:
 
 Vamos lá, apareceram alguns códigos novos né? Vamos entender o que eles representam.
 
-- let = declaração de uma varíavel, só que diferente de **const**, ela serve para declarar um valor que sofrerá mudança. 
+- **let** = declaração de uma varíavel, só que diferente de **const**, ela serve para declarar um valor que sofrerá mudança. 
 
-- length = essa propriedade serve para termos acesso a toda quantidade de **alunos** neste caso, ou seja, se possuimos 03 alunos dentro do array, então ele trará esse total.
+- **length** = essa propriedade serve para termos acesso a toda quantidade de **alunos** neste caso, ou seja, se possuimos 03 alunos dentro do array, então ele trará esse total.
 
-<p align=center>  No código declaramos então que **i = 0**, ok? Continua comigo. Então, na próxima sequência, dizemos que o valor de de **i < alunos.length** e por fim, caso não seja, incrementamos o valor de i, utilizando o **i++**. Conseguiu acompanhar? Vou tentar traduzir, saca só:
+<p align=justify>  No código declaramos então que **i = 0**, ok? Continua comigo. Então, na próxima sequência, dizemos que o valor de de **i < alunos.length** e por fim, caso não seja, incrementamos o valor de i, utilizando o **i++**. Conseguiu acompanhar? Vou tentar traduzir, saca só:
 
-<p align=center>  Falamos que o **i = 0**, depois, também dizemos que se o **i < alunos.length **, iremos incrementar com o **i++**. Com isso, o código irá repetir até que o **i** não seja menor que o **alunos.length**. Ficou mais claro? Espero que sim.
+<p align=justify>  Falamos que o **i = 0**, depois, também dizemos que se o **i < alunos.length **, iremos incrementar com o **i++**. Com isso, o código irá repetir até que o **i** não seja menor que o **alunos.length**. Ficou mais claro? Espero que sim.
