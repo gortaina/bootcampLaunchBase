@@ -339,4 +339,26 @@ Exemplos:
  > const nomesDeAlunos = ['Jorge', 'Laryssa', 'Luana']
 
  Desta forma, temos 03 propriedades dentro de uma unica varíavel.
+<br>
+<br>
+
+<h1 align=center> Funções e métodos</h1>
+
+<p align=center>Podemos dizer que a função serve para agrupar um bloco de códigos, afim de que eles tenham ação já definida. É, criamos uma função para reaproveitar determinado código, sem que tenhamos que ficar digitando ele o tempo todo. Vamos codar?
+
+ - Exemplo:
+> function calculaMedia(alunos) {
+>   return (alunos[0].nota + alunos[1].nota + alunos[2].nota) / 3
+> }
+
+> const media1 = calculaMedia(alunosDaTurmaA)
+> const media2 = calculaMedia(alunosDaTurmaB)
+
+ Veja que dentro da função, reaproveitamos a varíavel **alunos**, porém ela não esta mais em nenhum lugar, sendo assim, incluimos ela na função **(alunos)**. Porém, abaixo, devemos dizer quais serão os parâmetros que retornaram dentro da função, por isso utilizamos:
+> calculaMedia(alunosdaTurmaA)
+> calculaMedia(alunosdaTurmaB)
+
+ Desta forma, dizemos que os **(alunos)** da função, são equivalentes aos **(alunosDaTurmaA) e (alunosDaTurmaB)**.
+
+ Ficou um pouco consufo? Não tem problema, é assim mesmo, com o tempo o conceito de função irá ficar mais claro, mas até lá, estude!
 

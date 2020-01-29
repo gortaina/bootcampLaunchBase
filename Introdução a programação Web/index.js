@@ -1,11 +1,11 @@
 // criar um programa que calcula a média
-// das notas entre os alunos e envia
+// das turmas de alunos  e envia
 // mensagem do cálculo da média.
 // se a media for maior que 5, parabenizar a turma
 
-const alunos = [{
+const alunosDaTurmaA = [{
     nome: 'Jorge',
-    nota: 9.8
+    nota: 0
   },
   {
     nome: 'Laryssa',
@@ -17,11 +17,37 @@ const alunos = [{
   }
 ]
 
+const alunosDaTurmaB = [{
+    nome: 'Priscila',
+    nota: 8.9
+  },
+  {
+    nome: 'Rebeka',
+    nota: 10
+  },
+  {
+    nome: 'Varoa',
+    nota: 6
+  }
+]
 
-const media = (alunos[0].nota + alunos[1].nota + alunos[2].nota) / 3
+function calculaMedia(alunos) {
+  return (alunos[0].nota + alunos[1].nota + alunos[2].nota) / 3
+}
 
-console.log(media)
+const media1 = calculaMedia(alunosDaTurmaA)
+const media2 = calculaMedia(alunosDaTurmaB)
 
-const nomesDeAlunos = ['Jorge', 'Laryssa', 'Luana']
 
-console.log(alunos)
+
+
+function enviaMensagem(media, turma) {
+  if (media > 5) {
+    console.log(`A media da turma ${turma} foi de ${media}. Parabéns`)
+  } else {
+    console.log(`A média da turma ${turma} é menor que 5`)
+  }
+}
+
+enviaMensagem(media1, 'turmaA')
+enviaMensagem(media2, 'turmaB')
