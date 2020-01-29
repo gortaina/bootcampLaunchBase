@@ -3,23 +3,21 @@
 // mensagem do cálculo da média.
 // se a media for maior que 5, parabenizar a turma
 
-const alunosDaTurmaA = [
-  {
+const alunosDaTurmaA = [{
     nome: "Jorge",
-    nota: 0
+    nota: 5.2,
   },
   {
     nome: "Laryssa",
-    nota: 10
+    nota: 1
   },
   {
     nome: "Luana",
-    nota: 2
+    nota: 8.7
   }
 ];
 
-const alunosDaTurmaB = [
-  {
+const alunosDaTurmaB = [{
     nome: "Priscila",
     nota: 8.9
   },
@@ -48,7 +46,7 @@ function calculaMedia(alunos) {
 }
 
 const media1 = calculaMedia(alunosDaTurmaA);
-// const media2 = calculaMedia(alunosDaTurmaB)
+const media2 = calculaMedia(alunosDaTurmaB)
 
 function enviaMensagem(media, turma) {
   if (media > 5) {
@@ -58,5 +56,34 @@ function enviaMensagem(media, turma) {
   }
 }
 
-// enviaMensagem(media1, 'turmaA')
-// enviaMensagem(media2, 'turmaB')
+enviaMensagem(media1, 'turmaA')
+enviaMensagem(media2, 'turmaB')
+
+
+
+
+
+function marcarComoReprovado(aluno) {
+  aluno.reprovado = false;
+  if (aluno.nota < 5) {
+    aluno.reprovado = true;
+  }
+}
+
+
+function enviarMensagemReprovado(aluno) {
+  if (aluno.reprovado) {
+    console.log(`O aluno ${aluno.nome} está reprovado!`)
+  }
+}
+
+
+function alunoReprovado(alunos) {
+  for (let aluno of alunos) {
+    marcarComoReprovado(aluno);
+    enviarMensagemReprovado(aluno)
+  }
+}
+
+alunoReprovado(alunosDaTurmaA)
+alunoReprovado(alunosDaTurmaB)
