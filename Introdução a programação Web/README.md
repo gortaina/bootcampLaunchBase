@@ -379,6 +379,6 @@ Vamos lá, apareceram alguns códigos novos né? Vamos entender o que eles repre
 
 - **length** = essa propriedade serve para termos acesso a toda quantidade de **alunos** neste caso, ou seja, se possuimos 03 alunos dentro do array, então ele trará esse total.
 
-<p align=justify>  No código declaramos então que **i = 0**, ok? Continua comigo. Então, na próxima sequência, dizemos que o valor de de **i < alunos.length** e por fim, caso não seja, incrementamos o valor de i, utilizando o **i++**. Conseguiu acompanhar? Vou tentar traduzir, saca só:
+<p align=justify>  No código declaramos então que </strong>i = 0</strong>, ok? Continua comigo. Então, na próxima sequência, dizemos que o valor de de <strong>i < alunos.length</strong> e por fim, caso não seja, incrementamos o valor de i, utilizando o <strong>i++</strong>. Conseguiu acompanhar? Vou tentar traduzir, saca só:
 
-<p align=justify>  Falamos que o **i = 0**, depois, também dizemos que se o **i < alunos.length **, iremos incrementar com o **i++**. Com isso, o código irá repetir até que o **i** não seja menor que o **alunos.length**. Ficou mais claro? Espero que sim.
+<p align=justify>  Falamos que o <strong>i = 0</strong>, depois, também dizemos que se o <strong>i < alunos.length</strong>, iremos incrementar com o <strong>i++</strong>. Com isso, o código irá repetir até que o <strong>i</strong> não seja menor que o **alunos.length</strong>. Ficou mais claro? Espero que sim.
