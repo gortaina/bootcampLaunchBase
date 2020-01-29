@@ -361,4 +361,24 @@ Exemplos:
  Desta forma, dizemos que os **(alunos)** da função, são equivalentes aos **(alunosDaTurmaA) e (alunosDaTurmaB)**.
 
  Ficou um pouco consufo? Não tem problema, é assim mesmo, com o tempo o conceito de função irá ficar mais claro, mas até lá, estude!
+<br>
+<br>
 
+<h1 align=center> Estrutura de repetição</h1>
+
+<p align=center> Nessa parte iremos aprender como repetir uma estrutura de dados que já temos. Como assim? Isso mesmo, iremos repetir informações de um bloco de código até determinado momento, simples assim. (brincadeira, não é simples, por isso vamos aos códigos, :D)
+
+ - Exemplo de código:
+> function calculaMedia(alunos) {
+>  for (let i = 0; i < alunos.length; i++) {
+>  }
+
+Vamos lá, apareceram alguns códigos novos né? Vamos entender o que eles representam.
+
+- let = declaração de uma varíavel, só que diferente de **const**, ela serve para declarar um valor que sofrerá mudança. 
+
+- length = essa propriedade serve para termos acesso a toda quantidade de **alunos** neste caso, ou seja, se possuimos 03 alunos dentro do array, então ele trará esse total.
+
+<p align=center>  No código declaramos então que **i = 0**, ok? Continua comigo. Então, na próxima sequência, dizemos que o valor de de **i < alunos.length** e por fim, caso não seja, incrementamos o valor de i, utilizando o **i++**. Conseguiu acompanhar? Vou tentar traduzir, saca só:
+
+<p align=center>  Falamos que o **i = 0**, depois, também dizemos que se o **i < alunos.length **, iremos incrementar com o **i++**. Com isso, o código irá repetir até que o **i** não seja menor que o **alunos.length**. Ficou mais claro? Espero que sim.
