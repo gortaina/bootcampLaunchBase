@@ -154,3 +154,11 @@ header div {
   opacity: 1;
   visibility: visible;
 }
+
+iframe {
+  width: 90%;
+  height: 90%;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+}
